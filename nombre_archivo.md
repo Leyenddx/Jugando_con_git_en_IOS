@@ -9,3 +9,4 @@ Ahh mis cacahuates!
 Git init
 Git status
 Git add
+Git push
